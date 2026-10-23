@@ -38,7 +38,7 @@ In this project, I have:
 
 ## 🛠️ Important Links & Tools
 
-- **MySQL Server and MySQL Workbench
+- **MySQL Server and MySQL Workbench**
 - **[draw.io](https://www.drawio.com/):** to draw the architecture and the data model.
 
 ---
